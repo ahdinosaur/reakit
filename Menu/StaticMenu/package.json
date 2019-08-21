@@ -1,0 +1,8 @@
+{
+  "name": "reakit/Menu/StaticMenu",
+  "private": true,
+  "sideEffects": false,
+  "main": "../../lib/Menu/StaticMenu",
+  "module": "../../es/Menu/StaticMenu",
+  "types": "../../ts/Menu/StaticMenu"
+}
